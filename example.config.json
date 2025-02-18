@@ -1,0 +1,7 @@
+{
+    "telegram_api_id": "",
+    "telegram_api_hash": "",
+    "phone_number": "",
+    "db_file": "tgbackup.db",
+    "verbose": false
+  }
